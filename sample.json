@@ -1,0 +1,1002 @@
+[
+    {
+        "TITLE": "A Light in the Attic",
+        "CATEGORY": "Poetry",
+        "PRICE": "\u00a351.77",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg"
+    },
+    {
+        "TITLE": "Tipping the Velvet",
+        "CATEGORY": "Historical Fiction",
+        "PRICE": "\u00a353.74",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg"
+    },
+    {
+        "TITLE": "Soumission",
+        "CATEGORY": "Fiction",
+        "PRICE": "\u00a350.10",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg"
+    },
+    {
+        "TITLE": "Sharp Objects",
+        "CATEGORY": "Mystery",
+        "PRICE": "\u00a347.82",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg"
+    },
+    {
+        "TITLE": "Sapiens: A Brief History of Humankind",
+        "CATEGORY": "History",
+        "PRICE": "\u00a354.23",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg"
+    },
+    {
+        "TITLE": "The Requiem Red",
+        "CATEGORY": "Young Adult",
+        "PRICE": "\u00a322.65",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg"
+    },
+    {
+        "TITLE": "The Dirty Little Secrets of Getting Your Dream Job",
+        "CATEGORY": "Business",
+        "PRICE": "\u00a333.34",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg"
+    },
+    {
+        "TITLE": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "CATEGORY": "Default",
+        "PRICE": "\u00a317.93",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg"
+    },
+    {
+        "TITLE": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "CATEGORY": "Default",
+        "PRICE": "\u00a322.60",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg"
+    },
+    {
+        "TITLE": "The Black Maria",
+        "CATEGORY": "Poetry",
+        "PRICE": "\u00a352.15",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg"
+    },
+    {
+        "TITLE": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "CATEGORY": "Default",
+        "PRICE": "\u00a313.99",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg"
+    },
+    {
+        "TITLE": "Shakespeare's Sonnets",
+        "CATEGORY": "Poetry",
+        "PRICE": "\u00a320.66",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg"
+    },
+    {
+        "TITLE": "Set Me Free",
+        "CATEGORY": "Young Adult",
+        "PRICE": "\u00a317.46",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg"
+    },
+    {
+        "TITLE": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a352.29",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg"
+    },
+    {
+        "TITLE": "Rip it Up and Start Again",
+        "CATEGORY": "Music",
+        "PRICE": "\u00a335.02",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg"
+    },
+    {
+        "TITLE": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "CATEGORY": "Music",
+        "PRICE": "\u00a357.25",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg"
+    },
+    {
+        "TITLE": "Olio",
+        "CATEGORY": "Poetry",
+        "PRICE": "\u00a323.88",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/olio_984/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg"
+    },
+    {
+        "TITLE": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "CATEGORY": "Science Fiction",
+        "PRICE": "\u00a337.59",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg"
+    },
+    {
+        "TITLE": "Libertarianism for Beginners",
+        "CATEGORY": "Politics",
+        "PRICE": "\u00a351.33",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg"
+    },
+    {
+        "TITLE": "It's Only the Himalayas",
+        "CATEGORY": "Travel",
+        "PRICE": "\u00a345.17",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg"
+    },
+    {
+        "TITLE": "In Her Wake",
+        "CATEGORY": "Thriller",
+        "PRICE": "\u00a312.84",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/in-her-wake_980/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/27/92/2792ef951651ff1eae40a410cac41e0f.jpg"
+    },
+    {
+        "TITLE": "How Music Works",
+        "CATEGORY": "Music",
+        "PRICE": "\u00a337.32",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/how-music-works_979/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/1d/40/1d4087ff0a63f09fae9cd8433d21c2c4.jpg"
+    },
+    {
+        "TITLE": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+        "CATEGORY": "Food and Drink",
+        "PRICE": "\u00a330.52",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/9f/58/9f58d3ff6d58589eaf325b1a33c303a0.jpg"
+    },
+    {
+        "TITLE": "Chase Me (Paris Nights #2)",
+        "CATEGORY": "Romance",
+        "PRICE": "\u00a325.27",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/6c/84/6c84fcf7a53b02b6e763de7272934842.jpg"
+    },
+    {
+        "TITLE": "Black Dust",
+        "CATEGORY": "Romance",
+        "PRICE": "\u00a334.53",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/black-dust_976/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/a4/0a/a40af95beab828af1a4757ad1ee17da3.jpg"
+    },
+    {
+        "TITLE": "Birdsong: A Story in Pictures",
+        "CATEGORY": "Childrens",
+        "PRICE": "\u00a354.64",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/af/2f/af2fe2419ea136f2cd567aa92082c3ae.jpg"
+    },
+    {
+        "TITLE": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+        "CATEGORY": "Default",
+        "PRICE": "\u00a322.50",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/a3/2a/a32ab3b8c024c6c2b274a86b185e7585.jpg"
+    },
+    {
+        "TITLE": "Aladdin and His Wonderful Lamp",
+        "CATEGORY": "Default",
+        "PRICE": "\u00a353.13",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/a8/3c/a83c460fab82f35a37c0846729485547.jpg"
+    },
+    {
+        "TITLE": "Worlds Elsewhere: Journeys Around Shakespeare\u2019s Globe",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a340.30",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/7b/d9/7bd93db091d736d0c6ff9d578e3ba3d7.jpg"
+    },
+    {
+        "TITLE": "Wall and Piece",
+        "CATEGORY": "Art",
+        "PRICE": "\u00a344.18",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/wall-and-piece_971/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/df/34/df346322ddfdd3b4da0e34cad17f49dc.jpg"
+    },
+    {
+        "TITLE": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "CATEGORY": "Spirituality",
+        "PRICE": "\u00a317.66",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/2b/1b/2b1bfecae9d512cb6ee943ccf786216f.jpg"
+    },
+    {
+        "TITLE": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a331.05",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/7c/10/7c10101fe1759c5a17ba57e4bef9e764.jpg"
+    },
+    {
+        "TITLE": "The Elephant Tree",
+        "CATEGORY": "Thriller",
+        "PRICE": "\u00a323.82",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/4b/80/4b80a3d9148e224ed4d6cd4d33f43728.jpg"
+    },
+    {
+        "TITLE": "The Bear and the Piano",
+        "CATEGORY": "Childrens",
+        "PRICE": "\u00a336.89",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/d0/87/d0876dcd1a6530a4cb54903aad7a3e28.jpg"
+    },
+    {
+        "TITLE": "Sophie's World",
+        "CATEGORY": "Philosophy",
+        "PRICE": "\u00a315.94",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/sophies-world_966/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/d7/39/d73914232130fdf90d66f02fd9798f2b.jpg"
+    },
+    {
+        "TITLE": "Penny Maybe",
+        "CATEGORY": "Default",
+        "PRICE": "\u00a333.29",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/penny-maybe_965/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/b1/4b/b14be641ab97a330891455a769d52fd3.jpg"
+    },
+    {
+        "TITLE": "Maude (1883-1993):She Grew Up with the country",
+        "CATEGORY": "Default",
+        "PRICE": "\u00a318.02",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/65/bf/65bfa3acc93b0e558a1c3de1b1164742.jpg"
+    },
+    {
+        "TITLE": "In a Dark, Dark Wood",
+        "CATEGORY": "Mystery",
+        "PRICE": "\u00a319.63",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/95/84/95840dfd67c020067c99d70451147e20.jpg"
+    },
+    {
+        "TITLE": "Behind Closed Doors",
+        "CATEGORY": "Thriller",
+        "PRICE": "\u00a352.22",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/a5/85/a58571db229f2e8f75ea38861eca7f39.jpg"
+    },
+    {
+        "TITLE": "You can't bury them all: Poems",
+        "CATEGORY": "Poetry",
+        "PRICE": "\u00a333.63",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/b7/44/b7440aa88046b0bf8cba50d59295518e.jpg"
+    },
+    {
+        "TITLE": "Slow States of Collapse: Poems",
+        "CATEGORY": "Poetry",
+        "PRICE": "\u00a357.31",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/db/ac/dbac3faca8a799824f5725d66c0fcce3.jpg"
+    },
+    {
+        "TITLE": "Reasons to Stay Alive",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a326.41",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/f5/3c/f53c7d21723c860cfbca2b539bc55b8f.jpg"
+    },
+    {
+        "TITLE": "Private Paris (Private #10)",
+        "CATEGORY": "Fiction",
+        "PRICE": "\u00a347.61",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/05/87/0587ab519222a61f803fa4570c325ad2.jpg"
+    },
+    {
+        "TITLE": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a323.11",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/71/45/71451e3bba61a8d888a4a2c6526a4bcf.jpg"
+    },
+    {
+        "TITLE": "Without Borders (Wanderlove #1)",
+        "CATEGORY": "New Adult",
+        "PRICE": "\u00a345.07",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/de/26/de269ee688d4dc51846567f3942600ce.jpg"
+    },
+    {
+        "TITLE": "When We Collided",
+        "CATEGORY": "Contemporary",
+        "PRICE": "\u00a331.77",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/when-we-collided_955/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/17/db/17db3de71e8217d4277a9328b04f56cf.jpg"
+    },
+    {
+        "TITLE": "We Love You, Charlie Freeman",
+        "CATEGORY": "Fiction",
+        "PRICE": "\u00a350.27",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/87/a2/87a2fddd7f6b240c0351e1eb950b6716.jpg"
+    },
+    {
+        "TITLE": "Untitled Collection: Sabbath Poems 2014",
+        "CATEGORY": "Poetry",
+        "PRICE": "\u00a314.27",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/65/6e/656e79dfd4f8b6bf19ffde2c75ceda81.jpg"
+    },
+    {
+        "TITLE": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a344.18",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/88/a4/88a4b5f7236b8a36ba972be5ebe4f252.jpg"
+    },
+    {
+        "TITLE": "Unicorn Tracks",
+        "CATEGORY": "Fantasy",
+        "PRICE": "\u00a318.78",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/9b/09/9b0935dc936c92900c2dc5d2114da72f.jpg"
+    },
+    {
+        "TITLE": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+        "CATEGORY": "History",
+        "PRICE": "\u00a325.52",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/27/a1/27a1ebe79d6e6759ec68ea9f427a4f71.jpg"
+    },
+    {
+        "TITLE": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a316.28",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/8b/ab/8bab133ec9f8248a8d5f5ea5c09d0f56.jpg"
+    },
+    {
+        "TITLE": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a331.12",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/f4/21/f4210912ca58ef35f8ad120fe3dfed38.jpg"
+    },
+    {
+        "TITLE": "This One Summer",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a319.49",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/this-one-summer_947/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/ee/43/ee4364a59d66bafb1b3264419ab3ed9e.jpg"
+    },
+    {
+        "TITLE": "Thirst",
+        "CATEGORY": "Fiction",
+        "PRICE": "\u00a317.27",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/thirst_946/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/8c/54/8c54a50576c204b80165a13545f73028.jpg"
+    },
+    {
+        "TITLE": "The Torch Is Passed: A Harding Family Story",
+        "CATEGORY": "Add a comment",
+        "PRICE": "\u00a319.09",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/c7/26/c7260547c468dbe78af92cf3927c2a1c.jpg"
+    },
+    {
+        "TITLE": "The Secret of Dreadwillow Carse",
+        "CATEGORY": "Childrens",
+        "PRICE": "\u00a356.13",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/7b/fd/7bfde4a3d6793f13e9a2d8851a398847.jpg"
+    },
+    {
+        "TITLE": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+        "CATEGORY": "Food and Drink",
+        "PRICE": "\u00a356.41",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/fd/af/fdaf3c3104c559941c01e840fecd2659.jpg"
+    },
+    {
+        "TITLE": "The Past Never Ends",
+        "CATEGORY": "Mystery",
+        "PRICE": "\u00a356.50",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/9d/f2/9df248dcefeaba9eeb519a59b248f72c.jpg"
+    },
+    {
+        "TITLE": "The Natural History of Us (The Fine Art of Pretending #2)",
+        "CATEGORY": "Young Adult",
+        "PRICE": "\u00a345.22",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/da/b8/dab87c14168f3ce18530447ec6437361.jpg"
+    },
+    {
+        "TITLE": "The Nameless City (The Nameless City #1)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a338.16",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/19/de/19deee0778c2406da04a4dd0ea09188f.jpg"
+    },
+    {
+        "TITLE": "The Murder That Never Was (Forensic Instincts #5)",
+        "CATEGORY": "Fiction",
+        "PRICE": "\u00a354.11",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/29/e0/29e036acd8a6e3daa787ce2bc05bdbbb.jpg"
+    },
+    {
+        "TITLE": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+        "CATEGORY": "Science",
+        "PRICE": "\u00a342.96",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/a3/9e/a39e7c5c9fc61c2ae0f81116aa8cbb0e.jpg"
+    },
+    {
+        "TITLE": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+        "CATEGORY": "Add a comment",
+        "PRICE": "\u00a323.89",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/c9/eb/c9eb6ecf45abf796df0044600db65e55.jpg"
+    },
+    {
+        "TITLE": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a316.77",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/26/65/2665876e19a6c92130f02cfda3bd3846.jpg"
+    },
+    {
+        "TITLE": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+        "CATEGORY": "Default",
+        "PRICE": "\u00a320.59",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/a5/b8/a5b8d2d5165a06fc762e8eaf8b04f98f.jpg"
+    },
+    {
+        "TITLE": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a337.13",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/73/cb/73cb1236d96f455d712516fffeae2304.jpg"
+    },
+    {
+        "TITLE": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a356.06",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/b1/0f/b10faf0dee8994865437ffc79682dc2f.jpg"
+    },
+    {
+        "TITLE": "The Death of Humanity: and the Case for Life",
+        "CATEGORY": "Philosophy",
+        "PRICE": "\u00a358.11",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/3f/f6/3ff6fe5d0c5ca7ab2ed8b5971e299caa.jpg"
+    },
+    {
+        "TITLE": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+        "CATEGORY": "Health",
+        "PRICE": "\u00a349.05",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/9c/c6/9cc673854af8fd155953384b3cac334e.jpg"
+    },
+    {
+        "TITLE": "The Art Forger",
+        "CATEGORY": "Add a comment",
+        "PRICE": "\u00a340.76",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-art-forger_930/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/f5/3b/f53bc7b18914c97de7c23967293be119.jpg"
+    },
+    {
+        "TITLE": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+        "CATEGORY": "History",
+        "PRICE": "\u00a319.73",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/2e/65/2e654066306042f4c462ba4d048650d9.jpg"
+    },
+    {
+        "TITLE": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "CATEGORY": "Spirituality",
+        "PRICE": "\u00a332.24",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/da/0c/da0ca35421a5120b2109028e44a53f56.jpg"
+    },
+    {
+        "TITLE": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a341.83",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/17/19/1719475c51206a410a90fe5f3708df4c.jpg"
+    },
+    {
+        "TITLE": "Soul Reader",
+        "CATEGORY": "Default",
+        "PRICE": "\u00a339.58",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/soul-reader_926/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/cc/5e/cc5e82c2205da748c6c19fbc1876586b.jpg"
+    },
+    {
+        "TITLE": "Security",
+        "CATEGORY": "Horror",
+        "PRICE": "\u00a339.25",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/security_925/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/79/2b/792bdeb2cf7d8efaef0e401e5a27b4da.jpg"
+    },
+    {
+        "TITLE": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+        "CATEGORY": "Fantasy",
+        "PRICE": "\u00a325.02",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/4a/99/4a996ae54711cea37e370428b54f8b19.jpg"
+    },
+    {
+        "TITLE": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a351.04",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/60/3c/603c8f3dd299efe67616a53e5bfb1d03.jpg"
+    },
+    {
+        "TITLE": "Reskilling America: Learning to Labor in the Twenty-First Century",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a319.83",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/2c/d2/2cd2b814b8a8cd3a49895cbd13a8b1f4.jpg"
+    },
+    {
+        "TITLE": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a350.40",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/d5/d0/d5d015a9cf899301cce5d1a629bdd974.jpg"
+    },
+    {
+        "TITLE": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a313.61",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/6c/8f/6c8ffe949fb650ba60eff25be1692881.jpg"
+    },
+    {
+        "TITLE": "Princess Between Worlds (Wide-Awake Princess #5)",
+        "CATEGORY": "Fantasy",
+        "PRICE": "\u00a313.34",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/db/01/db01b38d3200a5faff4ead42791416e4.jpg"
+    },
+    {
+        "TITLE": "Pop Gun War, Volume 1: Gift",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a318.97",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/6f/7b/6f7b3b8445b943f4ff7426360daefb88.jpg"
+    },
+    {
+        "TITLE": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+        "CATEGORY": "History",
+        "PRICE": "\u00a336.28",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/31/e6/31e6e0a41e62858180b268c27b20a770.jpg"
+    },
+    {
+        "TITLE": "Patience",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a310.16",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/patience_916/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/71/0c/710cdaa148f10aac35c27bb93b4f532e.jpg"
+    },
+    {
+        "TITLE": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a315.44",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/0c/8a/0c8ae80b592bc1b4c555d6b29d1cfa28.jpg"
+    },
+    {
+        "TITLE": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a348.41",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/33/0b/330bf57e3f2e70548f87d39cb956f7eb.jpg"
+    },
+    {
+        "TITLE": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+        "CATEGORY": "Self Help",
+        "PRICE": "\u00a346.35",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/49/e1/49e1f207b2149e34390a2c6aa7cfc113.jpg"
+    },
+    {
+        "TITLE": "On a Midnight Clear",
+        "CATEGORY": "Add a comment",
+        "PRICE": "\u00a314.07",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/75/9d/759d9276739200e2cb8101a36449ba20.jpg"
+    },
+    {
+        "TITLE": "Obsidian (Lux #1)",
+        "CATEGORY": "Young Adult",
+        "PRICE": "\u00a314.86",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/88/3f/883fb0f2304efca8724c629f03a4b82a.jpg"
+    },
+    {
+        "TITLE": "My Paris Kitchen: Recipes and Stories",
+        "CATEGORY": "Food and Drink",
+        "PRICE": "\u00a333.37",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/ae/d5/aed548aefcac7803a599b05da3acb86e.jpg"
+    },
+    {
+        "TITLE": "Masks and Shadows",
+        "CATEGORY": "Fantasy",
+        "PRICE": "\u00a356.40",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/05/c4/05c43fe821ae19169c7baa8a54c7e869.jpg"
+    },
+    {
+        "TITLE": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+        "CATEGORY": "Food and Drink",
+        "PRICE": "\u00a314.02",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/48/19/48192cbef9101060e3787d87d7c8d7d1.jpg"
+    },
+    {
+        "TITLE": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a346.91",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/67/f8/67f83a06f77d0ff3b06cb8ac04839422.jpg"
+    },
+    {
+        "TITLE": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a345.61",
+        "RATING": "3/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/1c/78/1c78cb31ededc4c662857cf65bd1619d.jpg"
+    },
+    {
+        "TITLE": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+        "CATEGORY": "Sequential Art",
+        "PRICE": "\u00a319.92",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/d6/9b/d69b7020c4210e12882ffca0428919a2.jpg"
+    },
+    {
+        "TITLE": "Layered: Baking, Building, and Styling Spectacular Cakes",
+        "CATEGORY": "Food and Drink",
+        "PRICE": "\u00a340.11",
+        "RATING": "1/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/73/06/7306b860c7887dfb2a4b0083e2d6bf0d.jpg"
+    },
+    {
+        "TITLE": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+        "CATEGORY": "Add a comment",
+        "PRICE": "\u00a353.90",
+        "RATING": "2/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/6d/80/6d80608ef81001ad068df06fae44b7f8.jpg"
+    },
+    {
+        "TITLE": "Join",
+        "CATEGORY": "Science Fiction",
+        "PRICE": "\u00a335.67",
+        "RATING": "5/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/join_902/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/df/64/df642e483f7ae23de6888c73f05e2014.jpg"
+    },
+    {
+        "TITLE": "In the Country We Love: My Family Divided",
+        "CATEGORY": "Nonfiction",
+        "PRICE": "\u00a322.00",
+        "RATING": "4/5",
+        "NUMBER OF REVIEWS": "0",
+        "BOOK INSTOCK": true,
+        "BOOK URL": "https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html",
+        "BOOK IMAGE URL": "https://books.toscrape.com/../../media/cache/11/08/1108a8d9ebccd9cd474012121c32a7f5.jpg"
+    }
+]
