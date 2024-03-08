@@ -102,4 +102,3 @@ def extract_book_information():
 
 extract_book_information()
 
-    
